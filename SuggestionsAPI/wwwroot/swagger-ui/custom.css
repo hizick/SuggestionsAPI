@@ -3,7 +3,7 @@
 }
 
 .topbar-wrapper .link:after {
-    content: "Testing";
+    content: "SuggestionsAPI";
     color: cornflowerblue;
     visibility: visible;
     display: block;
