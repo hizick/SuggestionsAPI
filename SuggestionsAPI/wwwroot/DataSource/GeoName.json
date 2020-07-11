@@ -1,0 +1,102 @@
+[
+  {
+    "geonameid": 5653,
+    "geoname": "Phrakhtaes",
+    "asciiname": "Phrakhtaes",
+    "latitude": 34.56717,
+    "longitude": 33.02724,
+    "CountryCode": "GB",
+    "modification_date": "2014-09-30",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 5654,
+    "geoname": "Glossa tou Shyllou",
+    "asciiname": "Glossa tou Shyllou",
+    "latitude": 34.57083,
+    "longitude": 33.02917,
+    "CountryCode": "GB",
+    "modification_date": "2014-10-01",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 5655,
+    "geoname": "Arkosyia",
+    "asciiname": "Arkosyia",
+    "latitude": 34.57917,
+    "longitude": 33.025,
+    "CountryCode": "GB",
+    "modification_date": "2014-10-01",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 2633328,
+    "geoname": "Ythsie",
+    "asciiname": "Ythsie",
+    "latitude": 57.36667,
+    "longitude": -2.18333,
+    "CountryCode": "GB",
+    "modification_date": "2018-12-04",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 2633462,
+    "geoname": "Wycombe",
+    "asciiname": "Wycombe",
+    "latitude": 51.58333,
+    "longitude": -0.9,
+    "CountryCode": "GB",
+    "modification_date": "2017-07-13",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 7295261,
+    "geoname": "Wyddial",
+    "asciiname": "Wyddial",
+    "latitude": 51.96452,
+    "longitude": -0.00369,
+    "CountryCode": "GB",
+    "modification_date": "2018-07-03",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 2648108,
+    "geoname": "Greater Manchester",
+    "asciiname": "Greater Manchester",
+    "latitude": 53.45,
+    "longitude": -2.23333,
+    "CountryCode": "ENG",
+    "modification_date": "2017-07-27",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 2642713,
+    "geoname": "Merseyside",
+    "asciiname": "Merseyside",
+    "latitude": 53.4,
+    "longitude": -3.08333,
+    "CountryCode": "ENG",
+    "modification_date": "2017-07-27",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 2654710,
+    "geoname": "Brighton",
+    "asciiname": "Brighton",
+    "latitude": 50.82838,
+    "longitude": -0.13947,
+    "CountryCode": "ENG",
+    "modification_date": "2019-09-05",
+    "timezone": "Europe/London"
+  },
+  {
+    "geonameid": 3333165,
+    "geoname": "City of Leicester",
+    "asciiname": "City of Leicester",
+    "latitude": 52.63333,
+    "longitude": -1.13333,
+    "CountryCode": "ENG",
+    "modification_date": "2017-07-13",
+    "timezone": "Europe/London"
+  }
+]
